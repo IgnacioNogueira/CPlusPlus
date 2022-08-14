@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1655417721 source:c:\users\ignac\desktop\pilasumacplusplus\main.cpp
+	"Pila.h"
+
+1655418138 c:\users\ignac\desktop\pilasumacplusplus\pila.h
+	<iostream>
+	<stack>
+	<string>
+
+1655418181 source:c:\users\ignac\desktop\pilasumacplusplus\pila.cpp
+	"Pila.h"
+
+1656685029 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\pilasumacplusplus\main.cpp
+	"Pila.h"
+
+1655418138 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\pilasumacplusplus\pila.h
+	<iostream>
+	<stack>
+	<string>
+
+1656685997 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\pilasumacplusplus\pila.cpp
+	"Pila.h"
+

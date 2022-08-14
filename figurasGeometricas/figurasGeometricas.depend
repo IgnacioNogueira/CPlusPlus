@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1653875042 source:c:\users\ignac\desktop\figurasgeometricas\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Figura2D.h"
+	"Figura3D.h"
+	"Circulo.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Esfera.h"
+	"throwException.h"
+
+1653602118 source:c:\users\ignac\desktop\figurasgeometricas\src\figura2d.cpp
+	"Figura2D.h"
+
+1653604452 c:\users\ignac\desktop\figurasgeometricas\include\figura2d.h
+
+1653874266 source:c:\users\ignac\desktop\figurasgeometricas\src\circulo.cpp
+	"Figura2D.h"
+	"Circulo.h"
+	"throwException.h"
+
+1653747885 c:\users\ignac\desktop\figurasgeometricas\include\circulo.h
+	"Figura2D.h"
+	"throwException.h"
+
+1653874759 source:c:\users\ignac\desktop\figurasgeometricas\src\cuadrado.cpp
+	"Figura2D.h"
+	"Cuadrado.h"
+	"throwException.h"
+
+1653624675 c:\users\ignac\desktop\figurasgeometricas\include\cuadrado.h
+	"Figura2D.h"
+
+1653874790 source:c:\users\ignac\desktop\figurasgeometricas\src\triangulo.cpp
+	"Figura2D.h"
+	"Triangulo.h"
+	"throwException.h"
+	<math.h>
+
+1653624692 c:\users\ignac\desktop\figurasgeometricas\include\triangulo.h
+	"Figura2D.h"
+	<math.h>
+
+1653624003 source:c:\users\ignac\desktop\figurasgeometricas\src\figura3d.cpp
+	"Figura3D.h"
+
+1653624344 c:\users\ignac\desktop\figurasgeometricas\include\figura3d.h
+
+1653874949 source:c:\users\ignac\desktop\figurasgeometricas\src\esfera.cpp
+	"Figura3D.h"
+	"Esfera.h"
+	"throwException.h"
+
+1653624898 c:\users\ignac\desktop\figurasgeometricas\include\esfera.h
+	"Figura3D.h"
+
+1653874817 c:\users\ignac\desktop\figurasgeometricas\include\throwexception.h
+	<string>
+	<iostream>
+	<exception>
+
+1653874276 source:c:\users\ignac\desktop\figurasgeometricas\src\throwexception.cpp
+	"throwException.h"
+
+1653875042 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Figura2D.h"
+	"Figura3D.h"
+	"Circulo.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Esfera.h"
+	"throwException.h"
+
+1653604452 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\include\figura2d.h
+
+1653624344 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\include\figura3d.h
+
+1653747885 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\include\circulo.h
+	"Figura2D.h"
+	"throwException.h"
+
+1653874817 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\include\throwexception.h
+	<string>
+	<iostream>
+	<exception>
+
+1653624675 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\include\cuadrado.h
+	"Figura2D.h"
+
+1653624692 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\include\triangulo.h
+	"Figura2D.h"
+	<math.h>
+
+1653624898 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\include\esfera.h
+	"Figura3D.h"
+
+1653874266 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\src\circulo.cpp
+	"Figura2D.h"
+	"Circulo.h"
+	"throwException.h"
+
+1653874759 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\src\cuadrado.cpp
+	"Figura2D.h"
+	"Cuadrado.h"
+	"throwException.h"
+
+1653874949 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\src\esfera.cpp
+	"Figura3D.h"
+	"Esfera.h"
+	"throwException.h"
+
+1653602118 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\src\figura2d.cpp
+	"Figura2D.h"
+
+1653624003 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\src\figura3d.cpp
+	"Figura3D.h"
+
+1653874276 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\src\throwexception.cpp
+	"throwException.h"
+
+1653874790 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\figurasgeometricas\src\triangulo.cpp
+	"Figura2D.h"
+	"Triangulo.h"
+	"throwException.h"
+	<math.h>
+

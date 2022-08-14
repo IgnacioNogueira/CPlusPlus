@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1651950744 source:c:\users\ignac\desktop\cadenas\main.cpp
+	"Cadena.h"
+
+1651950617 source:c:\users\ignac\desktop\cadenas\src\cadena.cpp
+	"Cadena.h"
+
+1651950735 c:\users\ignac\desktop\cadenas\include\cadena.h
+	<iostream>
+	<string.h>
+
+1653315515 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\cadenas\main.cpp
+	"Cadena.h"
+
+1654208604 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\cadenas\include\cadena.h
+	<iostream>
+	<string.h>
+
+1654208623 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\cadenas\src\cadena.cpp
+	"Cadena.h"
+

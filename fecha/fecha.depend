@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1652647276 source:c:\users\ignac\desktop\fecha\src\fecha.cpp
+	"Fecha.h"
+
+1652645319 c:\users\ignac\desktop\fecha\include\fecha.h
+	<iostream>
+
+1652647261 source:c:\users\ignac\desktop\fecha\main.cpp
+	"Fecha.h"
+
+1652647261 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\fecha\main.cpp
+	"Fecha.h"
+
+1658936337 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\fecha\include\fecha.h
+	<iostream>
+
+1652647276 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\fecha\src\fecha.cpp
+	"Fecha.h"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1650804025 source:c:\users\ignac\desktop\41714018_20220423_mi_boolean1\main.cpp
+	"Boolean.h"
+
+1650748377 c:\users\ignac\desktop\41714018_20220423_mi_boolean1\include\boolean.h
+	<iostream>
+
+1650748691 source:c:\users\ignac\desktop\41714018_20220423_mi_boolean1\src\boolean.cpp
+	"Boolean.h"
+
+1650804025 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\41714018_20220421_mi_boolean1\main.cpp
+	"Boolean.h"
+
+1650748377 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\41714018_20220421_mi_boolean1\include\boolean.h
+	<iostream>
+
+1650748691 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\41714018_20220421_mi_boolean1\src\boolean.cpp
+	"Boolean.h"
+

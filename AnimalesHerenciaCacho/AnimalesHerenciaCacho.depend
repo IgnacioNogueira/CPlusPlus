@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1653164747 source:c:\users\ignac\desktop\animalesherenciacacho\main.cpp
+	<iostream>
+	"Mascota.h"
+	"perro.h"
+	"gato.h"
+
+1653162834 source:c:\users\ignac\desktop\animalesherenciacacho\src\mascota.cpp
+	"Mascota.h"
+
+1653162959 c:\users\ignac\desktop\animalesherenciacacho\include\mascota.h
+	<iostream>
+
+1653163336 source:c:\users\ignac\desktop\animalesherenciacacho\src\gato.cpp
+	"gato.h"
+
+1653163353 c:\users\ignac\desktop\animalesherenciacacho\include\gato.h
+	"Mascota.h"
+	<stdio.h>
+
+1653163465 source:c:\users\ignac\desktop\animalesherenciacacho\src\perro.cpp
+	"perro.h"
+
+1653163451 c:\users\ignac\desktop\animalesherenciacacho\include\perro.h
+	"Mascota.h"
+	<stdio.h>
+
+1653164747 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\animalesherenciacacho\main.cpp
+	<iostream>
+	"Mascota.h"
+	"perro.h"
+	"gato.h"
+
+1653162959 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\animalesherenciacacho\include\mascota.h
+	<iostream>
+
+1653163451 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\animalesherenciacacho\include\perro.h
+	"Mascota.h"
+	<stdio.h>
+
+1653163353 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\animalesherenciacacho\include\gato.h
+	"Mascota.h"
+	<stdio.h>
+
+1653163336 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\animalesherenciacacho\src\gato.cpp
+	"gato.h"
+
+1653162834 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\animalesherenciacacho\src\mascota.cpp
+	"Mascota.h"
+
+1653163465 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\animalesherenciacacho\src\perro.cpp
+	"perro.h"
+

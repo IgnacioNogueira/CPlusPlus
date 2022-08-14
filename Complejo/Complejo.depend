@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1653185040 source:c:\users\ignac\desktop\complejo\src\complejo.cpp
+	"Complejo.h"
+	<iostream>
+
+1653185012 c:\users\ignac\desktop\complejo\include\complejo.h
+	<iostream>
+
+1653185246 source:c:\users\ignac\desktop\complejo\main.cpp
+	"Complejo.h"
+	<iostream>
+
+1653330993 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\complejo\main.cpp
+	"Complejo.h"
+	<iostream>
+
+1653185012 c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\complejo\include\complejo.h
+	<iostream>
+
+1653331748 source:c:\users\ignac\desktop\cosas para parcial progra\c++\cachito c++\complejo\src\complejo.cpp
+	"Complejo.h"
+	<iostream>
+
